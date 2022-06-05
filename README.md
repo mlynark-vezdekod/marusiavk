@@ -1,3 +1,5 @@
 # marusiavk
 
-LAUNCH: uvicorn main:app --reload --ssl-keyfile key.pem --ssl-certfile cert.pem
+ЗАПУСК: uvicorn main:app --reload --ssl-keyfile key.pem --ssl-certfile cert.pem
+
+Видео с работой скилла загружено в репозитории. Прошу прощения за то, что не успел загрузить вовремя и оставить ссылку в анкете, думаю, что это не критично =)
